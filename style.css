@@ -1,0 +1,17 @@
+body{
+    background-color:black;
+}
+div{
+    margin-left:25%;
+    width:50%;
+    color:white;
+    text-align:center;
+}
+h1{
+    font-size:3rem;
+    text-transform: uppercase;
+}
+.hi{
+    border:5px solid white;
+    width: 100%;
+}
